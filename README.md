@@ -18,7 +18,8 @@ This project analyzes DoorDash-style pizza delivery performance using descriptiv
 - Traffic conditions significantly impact delays.  
 - More complex pizzas (more toppings) correlate with higher delay probability.
 
-### **Predictive Analytics**
+### **Predictive Analytics**[Dashboard_Analysis.pdf](https://github.com/user-attachments/files/23662881/Dashboard_Analysis.pdf)
+
 - A 2-year demand forecast supports staffing and operational planning.
 
 ---
